@@ -1,8 +1,8 @@
-# 30 Days of CSS 
+# :smiley_cat: 30 Days of CSS :smiley_cat:
 30 dias de projetos simples de CSS :fire:
 Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS)
 
-## Projetos:
+## :feet: Projetos:
 
 ![Dia 01- Ícones de Social Media em camadas](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia01)
 
@@ -12,8 +12,11 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/LYmpWOb)
 
+![Dia 03- Sliding text](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia03)
 
-### Dia 01 - ícones de Social Media em camadas:
+![CodePen](https://codepen.io/fabi_ladeira/pen/MWGKYzN)
+
+### :feet: Dia 01 - ícones de Social Media em camadas:
 
 O que eu aprendi
 
@@ -22,10 +25,16 @@ O que eu aprendi
   -  Transições CSS,
   -  nth-child ().
   
-### Dia 02 - Loader animado:
+### :feet: Dia 02 - Loader animado:
 
 O que eu aprendi:
  - utilização de Keyframes
  - webkit
  - animação
 
+### :feet: Dia 03 - Sliding Text:
+
+O que eu aprendi:
+ - utilização de Keyframes
+ - propriedades da transform
+ - animação
