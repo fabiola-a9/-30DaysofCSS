@@ -1,11 +1,17 @@
 # 30 Days of CSS 
 30 dias de projetos simples de CSS :fire:
+Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS)
 
 ## Projetos:
 
 ![Dia 01- Ícones de Social Media em camadas](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia01)
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/wvjaoMw)
+
+![Dia 02- Loader animado](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia02)
+
+![CodePen](https://codepen.io/fabi_ladeira/pen/LYmpWOb)
+
 
 ### Dia 01 - ícones de Social Media em camadas:
 
@@ -15,4 +21,11 @@ O que eu aprendi
   -  tranformação 2D ou 3D de um elemento ,
   -  Transições CSS,
   -  nth-child ().
+  
+### Dia 02 - Loader animado:
+
+O que eu aprendi:
+ - utilização de Keyframes
+ - webkit
+ - animação
 
