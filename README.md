@@ -4,7 +4,7 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ## :feet: Projetos:
 
-![Dia 01- Ícones de Social Media em camadas](https://github.com/fabiola-a9/30DaysofCSS#feet-dia-01---%C3%ADcones-de-social-media-em-camadas)
+![Dia 01- Ícones de Social Media em camadas](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia01)
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/wvjaoMw)
 
@@ -19,8 +19,6 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 ### :feet: Dia 01 - ícones de Social Media em camadas:
 ![clideo_editor_a7960698aea74817a31a9d03b0101d80](https://user-images.githubusercontent.com/62635623/188986187-55b1fc0b-a815-4205-93f3-11f4f8b234d3.gif)
   
-[Código](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia01)
-
 O que eu aprendi
 
   -  Criar as camadas utilizando a tag <span>,
