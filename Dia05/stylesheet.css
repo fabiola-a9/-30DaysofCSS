@@ -1,0 +1,52 @@
+:root{
+    --bg-color: rgb(59,32,77);
+    --btn-color: #ff0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: var(--bg-color);
+
+}
+.btn-container{
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.btn-container button{
+    background: var(--btn-color);
+    padding: 20px 30px;
+    border-radius: 50px;
+    letter-spacing: 4px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 1px solid var(--btn-color);
+    position: relative;
+
+}
+.btn-container button::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    outline: 2px solid var(--btn-color);
+    border-radius: 50px;
+    outline-offset: 2px;
+    outline-width: 2px;
+    animation: animate 1s linear infinite;
+}
+@keyframes animate{
+    0%{
+        outline-offset: 2px;
+        opacity: 1;
+    }
+    100%{
+        outline-offset: 20px;
+        opacity: 0;
+    }
+}
