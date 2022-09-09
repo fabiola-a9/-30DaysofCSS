@@ -16,6 +16,11 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/MWGKYzN)
 
+
+![Dia 04- Botão com efeito](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia04)
+
+![CodePen](https://codepen.io/fabi_ladeira/pen/GRdZgrN)
+
 ### :feet: Dia 01 - ícones de Social Media em camadas:
 ![clideo_editor_a7960698aea74817a31a9d03b0101d80](https://user-images.githubusercontent.com/62635623/188986187-55b1fc0b-a815-4205-93f3-11f4f8b234d3.gif)
   
@@ -41,3 +46,12 @@ O que eu aprendi:
  - utilização de Keyframes
  - propriedades da transform
  - animação
+
+### :feet: Dia 04 - Botão com efeito:
+
+![final_631aa2b6c92bea00b524bd77_722012](https://user-images.githubusercontent.com/62635623/189258877-361aeed7-9bbf-4e62-bacf-f17dd1654060.gif)
+
+
+O que eu aprendi:
+ - utilização de transparência
+ - efeito vidro
