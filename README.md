@@ -26,6 +26,11 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/JjvXBWL)
 
+
+![Dia 06- Texto iluminado](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia06)
+
+![CodePen](https://codepen.io/fabi_ladeira/pen/QWrEyYr)
+
 ### :feet: Dia 01 - ícones de Social Media em camadas:
 ![clideo_editor_a7960698aea74817a31a9d03b0101d80](https://user-images.githubusercontent.com/62635623/188986187-55b1fc0b-a815-4205-93f3-11f4f8b234d3.gif)
   
@@ -63,6 +68,11 @@ O que eu aprendi:
 
 
 ### :feet: Dia 05 - Botão Pulsante:
-![gif](https://im3.ezgif.com/tmp/ezgif-3-580afe986a.gif)
+![ezgif-3-580afe986a](https://user-images.githubusercontent.com/62635623/189507169-951682c5-28d0-454f-8862-c19a8639fec7.gif)
 
+### :feet: Dia 06 - Texto iluminado:
+![ezgif-2-76b0ef5b0e](https://user-images.githubusercontent.com/62635623/189507359-e8dc491e-3136-436b-b23c-8ff8f5fc980b.gif)
 
+O que eu aprendi:
+ -contenteditable
+ - efeito de reflexo
