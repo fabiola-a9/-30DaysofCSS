@@ -35,6 +35,10 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/abGZKOo)
 
+![Dia 08- Coração Batendo](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia08)
+
+![CodePen](https://codepen.io/fabi_ladeira/pen/OJZRXOq)
+
 ### :feet: Dia 01 - ícones de Social Media em camadas:
 ![clideo_editor_a7960698aea74817a31a9d03b0101d80](https://user-images.githubusercontent.com/62635623/188986187-55b1fc0b-a815-4205-93f3-11f4f8b234d3.gif)
   
@@ -88,3 +92,10 @@ O que eu aprendi:
 O que eu aprendi:
  -uso de animação em uma imagem
  -sempre checar o código, e aprender que falta de atenção é perigoso enquanto se coda. rsrs
+
+### :feet: Dia 08 - Coração Batendo 
+![ezgif-5-fbfce5a725](https://user-images.githubusercontent.com/62635623/189748308-affd4d96-ae48-44ba-a9ee-720d97315058.gif)
+
+O que eu aprendi:
+ -uso de animação em uma imagem
+ -transformação e rotação
