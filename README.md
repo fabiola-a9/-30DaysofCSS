@@ -31,6 +31,10 @@ Desafio criado por ![Milena Carecho](https://github.com/MilenaCarecho/30diasDeCS
 
 ![CodePen](https://codepen.io/fabi_ladeira/pen/QWrEyYr)
 
+![Dia 07- Preloader animado](https://github.com/fabiola-a9/30DaysofCSS/tree/main/Dia07)
+
+![CodePen](https://codepen.io/fabi_ladeira/pen/abGZKOo)
+
 ### :feet: Dia 01 - ícones de Social Media em camadas:
 ![clideo_editor_a7960698aea74817a31a9d03b0101d80](https://user-images.githubusercontent.com/62635623/188986187-55b1fc0b-a815-4205-93f3-11f4f8b234d3.gif)
   
@@ -74,5 +78,13 @@ O que eu aprendi:
 ![ezgif-2-76b0ef5b0e](https://user-images.githubusercontent.com/62635623/189507359-e8dc491e-3136-436b-b23c-8ff8f5fc980b.gif)
 
 O que eu aprendi:
+
  -contenteditable
  - efeito de reflexo
+
+### :feet: Dia 07 - preLoader animado
+![ezgif-3-d688b666e5](https://user-images.githubusercontent.com/62635623/189561721-7ea23870-c169-4681-9077-209a334e6ce6.gif)
+
+O que eu aprendi:
+ -uso de animação em uma imagem
+ -sempre checar o código, e aprender que falta de atenção é perigoso enquanto se coda. rsrs
